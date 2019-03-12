@@ -22,6 +22,6 @@ The following outline summarizes how the genetic algorithm works:
 
 8.Replaces the current population with the children to form the next generation.
 
-9.The algorithm stops when one of the stopping criteria is met. See Stopping Conditions for the Algorithm.
+9.The algorithm stops when one of the stopping criteria is met. 
 
 refer  "https://www.mathworks.com/help/gads/how-the-genetic-algorithm-works.html "  for more details.
