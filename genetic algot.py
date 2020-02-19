@@ -2,7 +2,7 @@
 """
 Created on Sun Apr 22 16:31:17 2018
 
-@author: Frost
+@author: Shakir
 """
 
 import random
