@@ -1,4 +1,4 @@
-# GEnetic-Algorithm
+# Genetic Algorithm
 Generates A Desired String from Random Set of characters using Genetic Algorithm
 
 
